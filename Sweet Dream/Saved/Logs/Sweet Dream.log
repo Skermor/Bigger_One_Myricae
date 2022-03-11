@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/08/22 18:55:20
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
@@ -6,6 +7,13 @@ LogInit: Display: Running engine for game: Sweet Dream
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.298745
+=======
+﻿Log file open, 02/27/22 16:34:41
+LogInit: Display: Running engine for game: Sweet Dream
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190485
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 02/27/22 16:34:41
 LogInit: Display: Running engine for game: Sweet Dream
@@ -223,6 +231,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.03.08-17.55.21:264][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.03.08-17.55.21:264][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2225,6 +2234,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.08-20.04.30:551][ 15]LogExit: Exiting.
 [2022.03.08-20.04.30:565][ 15]Log file closed, 03/08/22 21:04:30
 =======
+=======
+>>>>>>> Stashed changes
 [2022.02.27-15.34.41:717][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.02.27-15.34.41:717][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.02.27-15.34.41:717][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealEngine/GitHub/Bigger_One_Myricae/Sweet Dream/Saved/Config/Windows/Engine.ini]
@@ -3113,4 +3124,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.27-15.36.32:491][160]LogD3D11RHI: CleanupD3DDevice
 [2022.02.27-15.36.32:506][160]LogExit: Exiting.
 [2022.02.27-15.36.32:545][160]Log file closed, 02/27/22 16:36:32
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
